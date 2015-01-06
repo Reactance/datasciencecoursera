@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-The datascienctist's toolbox assignment
+The datascientist's toolbox assignment
